@@ -2,12 +2,15 @@
 prelimactivitynumber2-donotincludeanycode-angelanebres created by GitHub Classroom
 
 MAIN MENU
-![](s3.png)
+
+![](s3.PNG)
 
 FIRST FORMULA - can solve for each of the unknown variables given 3 variables. goes back to the variable selection screen.can select 
 another variable to compute. but cannot go back to the main menu yet
-![](s1.png)
+
+![](s1.PNG)
 
 SECOND FORMULA - can solve for each of the unknown variables given 3 variables. goes back to the variable selection screen.can select 
 another variable to compute. but cannot go back to the main menu yet
-![](s2.png)
+
+![](s2.PNG)
