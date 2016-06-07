@@ -14,3 +14,14 @@ SECOND FORMULA - can solve for each of the unknown variables given 3 variables. 
 another variable to compute. but cannot go back to the main menu yet
 
 ![](s2.PNG)
+
+
+JUNE 07, 2016
+![](1.PNG)
+![](a.PNG)
+![](b.PNG)
+![](c.PNG)
+![](d.PNG)
+![](e.PNG)
+![](f.PNG)
+![](1.PNG)
