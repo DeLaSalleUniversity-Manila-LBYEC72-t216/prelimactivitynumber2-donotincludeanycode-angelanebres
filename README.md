@@ -17,6 +17,8 @@ another variable to compute. but cannot go back to the main menu yet
 
 
 JUNE 07, 2016
+  It works, however, the screen doesn't clear up when "return to main menu"
+  
 ![](1.PNG)
 ![](a.PNG)
 ![](b.PNG)
