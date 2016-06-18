@@ -35,7 +35,7 @@ JUNE 07, 2016
 ![](m.PNG)
 
 *UPDATE - names of variables spelled out. previous problems resolved
-![](main.jpg)
+![](main.JPG)
 ![](m1.jpg)
 ![](m2.jpg)
 ![](1.jpg)
