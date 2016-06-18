@@ -33,3 +33,24 @@ JUNE 07, 2016
 ![](k.PNG)
 ![](l.PNG)
 ![](m.PNG)
+
+*UPDATE - names of variables spelled out. previous problems resolved
+![](main.jpg)
+![](m1.jpg)
+![](m2.jpg)
+![](1.jpg)
+![](1a.jpg)
+![](1b.jpg)
+![](1c.jpg)
+![](1d.jpg)
+![](1e.jpg)
+![](1f.jpg)
+![](2.jpg)
+![](2a.jpg)
+![](2b.jpg)
+![](2c.jpg)
+![](2d.jpg)
+![](2e.jpg)
+![](2f.jpg)
+
+
